@@ -5,6 +5,7 @@ Agora disfarçado heehehehe :)
     <br><br>
     <img src="https://github.com/user-attachments/assets/2d9ca747-7423-4988-a0f8-553cfa636197" alt="Imagem do GitHub" style="max-width: 100%; height: auto;">
 </h1>
+<p align="center">Esse site é derivado de umm maior chamado de egleaecraft.com.</p>
 
 ## Vantagens
 - Inrastréavel por não aparecer em buscas nna imternet;
@@ -20,4 +21,4 @@ Agora disfarçado heehehehe :)
 - Novo paragrafo.
 
 Espero que goste dessa update hehehe.
-![imagem](https://github.com/user-attachments/assets/cebdc0ac-4743-4008-b343-ab55aaa18824)
+
